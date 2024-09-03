@@ -1,0 +1,11 @@
+# Ignorar entorno virtual de Python
+venv/
+
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Otros archivos y carpetas a ignorar
+.env
+__pycache__/
+*.pyc
+db.sqlite3
